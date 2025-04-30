@@ -1,11 +1,11 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Ivan
 
 I'm a passionate **Frontend Developer** who loves crafting beautiful and responsive web interfaces. I enjoy turning complex problems into simple, elegant, and user-friendly solutions.
 
 ## 🚀 About Me
 
 - 💻 I specialize in: **HTML**, **CSS**, **JavaScript**, **React**, and **Tailwind CSS**
-- 🌱 Currently learning: **TypeScript**, **Next.js**, and **UI/UX Design**
+- 🌱 Currently learning: **TypeScript**, **React.js**, and **Node.js**
 - 👨‍💻 I enjoy building:
   - Responsive websites
   - Interactive user interfaces
@@ -30,9 +30,8 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and respons
 
 ## 📫 Let's Connect!
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-shevtsov-9abb8a1b9/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-shevtsov-9abb8a1b9/))
+- Email: vanyashevcov@gmail.com
 
 ---
 
