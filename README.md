@@ -30,7 +30,7 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and respons
 
 ## 📫 Let's Connect!
 
-- LinkedIn: ([https://linkedin.com/in/yourprofile]([https://www.linkedin.com/in/ivan-shevtsov-9abb8a1b9/])
+- LinkedIn: [https://www.linkedin.com/in/ivan-shevtsov-9abb8a1b9](https://www.linkedin.com/in/ivan-shevtsov-9abb8a1b9)
 - Email: vanyashevcov@gmail.com
 
 ---
