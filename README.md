@@ -5,7 +5,7 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and respons
 ## 🚀 About Me
 
 - 💻 I specialize in: **HTML**, **CSS**, **JavaScript**, **React**, and **Tailwind CSS**
-- 🌱 Currently learning: **TypeScript**, **React.js**, and **Node.js**
+- 🌱 Currently learning: **TypeScript** and **Node.js**
 - 👨‍💻 I enjoy building:
   - Responsive websites
   - Interactive user interfaces
