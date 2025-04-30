@@ -24,9 +24,9 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and respons
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanyashevcov&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanyashevcov&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect!
 
